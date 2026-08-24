@@ -1,0 +1,13 @@
+import java.until.*;
+class calculate{
+    public static void main(string[]args){
+        scanner sc=new 
+        scanner(system.in);
+        sydtom.out.println ("enter the three numbers");
+        
+        int a=sc.nextInt();
+        int b=sc.nextInt();
+        int c=sc.nextInt();
+        system.out.println("addition of the three numbers is" + (a+b+c));
+    }
+}
